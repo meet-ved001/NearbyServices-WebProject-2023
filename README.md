@@ -1,5 +1,6 @@
 # WebProject
 Our product is a website which connects customers with local service providers in various categories such as home cleaning, beauty services, appliance repair, and more. 
+
 Following are the list of features that I have included in our website:
 1. Quick registration
 2. Data confidentiality and security
